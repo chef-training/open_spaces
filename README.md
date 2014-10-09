@@ -1,38 +1,82 @@
+# Open Spaces
 
-Each room needed Assigned Note Taker
-There was too little information about where to find notes, take notes, add to notes.
-No roles defined within the rooms
-The main Twitter Tag was lost for the event
-Don't let certain voices dominant
+[Open Space Technology](http://en.wikipedia.org/wiki/Open_Space_Technology) is an approach to hosting meetings.
 
-Every event should have a Chef AMA? (Ask Me Anything?)
+### Initial Conditions
 
-For the first day the main room is open to a large AMA
+* A real business issue that people care about, that it is something worth talking about.
+* Mind numbing complexity, such that no single person or small group fully understands or can solve the issue
+* High levels of or lots of diversity, in terms of the skills and people required for a successful resolution (far-reaching, boundless)
+* Much passion and real or potential conflict, which implies that people genuinely care about the issue
+* Real sense of urgency, meaning the time for decisions and action was "yesterday"
 
-One every day. At the beginning of the day.
+### Expected Outcomes
 
-* What is the format?
-* What are the rules?
-* Can we get a copy of those rules?
+* The issues that are most important to people will get discussed.
+* The issues raised will be addressed by the participants best capable of getting something done about them.
+* All of the most important ideas, recommendations, discussions, and next steps will be documented in a report.
+* When sufficient time is allowed, the report contents will be prioritized by the group.
+* Participants will feel engaged and energized by the process.
 
-In every room there is description of the necessary roles, guidelines, and goals.
-Whiteboards in the rooms
-Whiteboards in the halls
+### Principles
 
-Some Rules:
+* Whoever comes is [sic] the right people ...reminds participants that they don't need the CEO and 100 people to get something done, you need people who care. And, absent the direction or control exerted in a traditional meeting, that's who shows up in the various breakout sessions of an Open Space meeting.
+* Whenever it starts is the right time ...reminds participants that "spirit and creativity do not run on the clock."
+* Wherever it is, is the right place ...reminds participants that space is opening everywhere all the time. Please be conscious and aware. – Tahrir Square is one famous example.
+* Whatever happens is the only thing that could have ...reminds participants that once something has happened, it's done—and no amount of fretting, complaining or otherwise rehashing can change that. Move on.
+* When it's over, it's over ...reminds participants that we never know how long it will take to resolve an issue, once raised, but that whenever the issue or work or conversation is finished, move on to the next thing. Don't keep rehashing just because there's 30 minutes left in the session. Do the work, not the time.
 
-* Declare that it is a Safe Room/Space
-* Answer the question quickly, and give resources to answer
-* Someone will adopt the role of the "Keeper of the Heart".
+### Law of two feet
 
-> The keeper knows when to ask the person that is asking questions if they could have someone follow with them later. That person would help explain more details that this persons needs.
+* If at any time during our time together you find yourself in any situation where you are neither learning nor contributing, use your two feet, go someplace else.
 
-> It good to have a variety of voices. From experiences (work/life) and training. Good mixture of Chef people and other individuals.
+## Building the Schedule
 
-> One answer per question if its not off base.
+A proper facilitator of an open space will NOT drive this process, just describe it.
 
-> Defining all the TERMS! Define all the THINGS!
+1. Identify the BIG question or topic to be discussed
+1. Anyone can propose a topic, provided they are passionate enough to start a discussion on that topic
+1. Announce your topic, write it on a sticky note with your name, place next to the schedule grid
+1. Have participants vote on the most important topics by adding a dot to the sticky notes.  Might limit the number of votes per person.
+1. Arrange the most important sticky notes onto the grid
+1. Repeat at the beginning of each day
 
+## Room Set-up
 
+* A white board and / or flipchart should be available in each room
+* Chairs should be placed in a circle, preferably without tables
+  * having tables makes it easier to set a laptop in front of you and not realy be engaged
+* Clearly identify who will be facilitating and who will be taking notes
+* Clearly indicate where the notes will be kept
 
+## Advice for participants
 
+Here are some simple tips to make sure you get the most out of your open space experience:
+
+* Make sure everyone's voice is heard
+* Listen twice as much as you speak
+* Help capture notes
+
+## Evening News
+
+Use evening news as a way to close out the event when it runs over multiple days.  Evening news should be used at the end of each day that is not the final day of the meeting.  Use the evening news to:
+
+* Announce any logistics about the remainder of the event - where we're going for happy hour, what time we'll reconvene, etc.
+* Reflect on the sessions of the day and ask participants to share:
+  * Key learnings, action items, and take aways
+  * What worked well, what should be improved, and what should be clarified about how the open spaces work
+  * Suggestions for additional activities to include (job board, tools board, lean coffee, etc.)
+
+## Closing Circle
+
+The closing circle is a time of sharing.  Each participant should be invited to share, in 90 seconds or less:
+
+* A commitment to the group
+* A key take away
+* An action item
+
+Depending on the size of the group, this may feel like it takes too long.  Do it anyhow.  Not everyone will speak, everyone will benefit from the insights of the entire group.
+
+### Influences and Inspiration
+
+This page was influenced by and takes copy directly from the [Open Space Technology](http://en.wikipedia.org/wiki/Open_Space_Technology) page on Wikipedia.  It received inspiration and additional influence by people who have organized and participated in Open Space events such at the Chef Community Summit and DevOpsDays.
