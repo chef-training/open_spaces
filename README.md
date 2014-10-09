@@ -30,9 +30,9 @@
 
 * If at any time during our time together you find yourself in any situation where you are neither learning nor contributing, use your two feet, go someplace else.
 
-### Friend-DA
+### Frien-DA
 
-Similar to a Non Disclosure Agreement (NDA) but with less legalese.  A Friend-DA is an agreement that those participating in the sessions may be sharing sensitive information that should not be disclosed outside of the session.  It is also an understanding that notes are being taken during each session so be sure to clarify which things should not be captured.  
+Similar to a Non Disclosure Agreement (NDA) but with less legalese.  A Frien-DA is an agreement that those participating in the sessions may be sharing sensitive information that should not be disclosed outside of the session.  It is also an understanding that notes are being taken during each session so be sure to clarify which things should not be captured.  
 
 ## Building the Schedule
 
