@@ -57,6 +57,7 @@ A proper facilitator of an open space will NOT drive this process, just describe
 
 Here are some simple tips to make sure you get the most out of your open space experience:
 
+* Participate - you'll get out what you put in
 * Make sure everyone's voice is heard
 * Listen twice as much as you speak
 * Help capture notes
