@@ -3,6 +3,7 @@
 [Open Space Technology](http://en.wikipedia.org/wiki/Open_Space_Technology) is an approach to hosting meetings.
 
 ### Initial Conditions
+Open spaces work best when these conditions are present:
 
 * A real business issue that people care about, that it is something worth talking about.
 * Mind numbing complexity, such that no single person or small group fully understands or can solve the issue
