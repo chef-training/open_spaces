@@ -1,8 +1,9 @@
 # Open Spaces
 
-[Open Space Technology](http://en.wikipedia.org/wiki/Open_Space_Technology) is an approach to hosting meetings.
+[Open Space Technology](http://en.wikipedia.org/wiki/Open_Space_Technology) is an approach to hosting meetings.  Facilitators of an open space meeting should read that page before continuing.
 
 ### Initial Conditions
+
 Open spaces work best when these conditions are present:
 
 * A real business issue that people care about, that it is something worth talking about.
@@ -27,9 +28,9 @@ Open spaces work best when these conditions are present:
 * Whatever happens is the only thing that could have ...reminds participants that once something has happened, it's done—and no amount of fretting, complaining or otherwise rehashing can change that. Move on.
 * When it's over, it's over ...reminds participants that we never know how long it will take to resolve an issue, once raised, but that whenever the issue or work or conversation is finished, move on to the next thing. Don't keep rehashing just because there's 30 minutes left in the session. Do the work, not the time.
 
-### Law of two feet
+### Law of mobility (aka, law of two feet)
 
-* If at any time during our time together you find yourself in any situation where you are neither learning nor contributing, use your two feet, go someplace else.
+* If at any time during our time together you find yourself in any situation where you are neither learning nor contributing, use your mobility, go someplace else.
 
 ### Frien-DA
 
@@ -50,7 +51,7 @@ A proper facilitator of an open space will NOT drive this process, just describe
 
 * A white board and / or flipchart should be available in each room
 * Chairs should be placed in a circle, preferably without tables
-  * having tables makes it easier to set a laptop in front of you and not realy be engaged
+  * having tables makes it easier to set a laptop in front of you and not really be engaged
 * Clearly identify who will be facilitating and who will be taking notes
 * Clearly indicate where the notes will be kept
 
