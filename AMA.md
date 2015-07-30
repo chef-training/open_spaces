@@ -16,10 +16,18 @@ An Ask Me Anything (AMA) session is a great way to kick-off an open spaces event
 
 
 ### Rules:
+
+Some rules for **everyone** to keep in mind:
+
+* This is a safe space
+* No question is off limits
+* Anyone may ask a question
+* Anyone may answer a question
+
+Some rules for various roles:
 * Attendees
   * The law of mobility -- if you feel (for any reason) that this session isn't the right one for you to be in, you should leave. No hard feelings!
   * Try to have a variety of voices from experiences (work/life) and training, including a decent mixture of Chef Software & community members.
-
 * Beginners
   * No question is off limits.
   * If you have more detailed questions about a topic, make a plan to meet up with a specific individual afterward who can do a deeper dive into a topic for you.
