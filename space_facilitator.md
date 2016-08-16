@@ -18,7 +18,8 @@
 
 **Tips for Facilitators**
 Follow these simple steps:
+
 1. Convene the space, and start the conversation with a re-statement of purpose. 
-2. Observe others in the room, and ask direct questions of people that work with the theme of the conversation as it flows.
-3. If one voice begins to dominate, acknowledge that their point of view has been understood, and move to rule 2 with another person.
+1. Observe others in the room, and ask direct questions of people that work with the theme of the conversation as it flows.
+1. If one voice begins to dominate, acknowledge that their point of view has been understood, and move to rule 2 with another person.
 
